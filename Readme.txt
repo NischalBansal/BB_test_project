@@ -1,1 +1,3 @@
-This is sample project for BitBucket Testing
+This is sample readme for BitBucket Testing
+
+Editing file for the first time
