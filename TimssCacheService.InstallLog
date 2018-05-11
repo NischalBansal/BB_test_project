@@ -1,0 +1,30 @@
+﻿Installing assembly 'C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\personify\GI762P360\services\CacheServer\TimssCacheService.InstallLog
+   assemblypath = C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe
+Installing service PersonifyGI762CacheService (3762)...
+Service PersonifyGI762CacheService (3762) has been successfully installed.
+Creating EventLog source PersonifyGI762CacheService (3762) in log Application...
+Committing assembly 'C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\personify\GI762P360\services\CacheServer\TimssCacheService.InstallLog
+   assemblypath = C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe
+Uninstalling assembly 'C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\personify\GI762P360\services\CacheServer\TimssCacheService.InstallLog
+   assemblypath = C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe
+Removing EventLog source PersonifyGI762CacheService (3762).
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\personify\GI762P360\services\CacheServer\TimssCacheService.InstallLog
+   assemblypath = C:\personify\GI762P360\services\CacheServer\TimssCacheService.exe
+Removing EventLog source PersonifyGI762CacheService (3762).
+Service PersonifyGI762CacheService (3762) is being removed from the system...
+Service PersonifyGI762CacheService (3762) was successfully removed from the system.
