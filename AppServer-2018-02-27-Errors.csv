@@ -1,0 +1,3 @@
+level,threadId,time,message,exception
+Error,4,2018-02-27 12:47:33.8465,Installation info cannot be loaded from the database.,
+Error,4,2018-02-27 12:47:35.9170,Environment strategy {0} from assembly {1} cannot be set up.,
